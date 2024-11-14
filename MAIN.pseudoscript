@@ -1,0 +1,2 @@
+entrada("ola escreve o teu nome", nome)
+imprime(nome)
